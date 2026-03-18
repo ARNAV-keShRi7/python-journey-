@@ -1,0 +1,3 @@
+user_name =input("Enter First name: ")
+len1 = ( "length of your first name is: ", len(user_name) ) # length of user_name
+print(len1)
